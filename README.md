@@ -1,2 +1,2 @@
 # jehan-portfolio
-A minimalist, aesthetic and interactive personal portfolio built with React and Tailwind CSS. Features smooth animations, a dark mode toggle and an interactive project showcase.
+This is my personal developer portfolio—a visually aesthetic and interactive website built to showcase my projects, skills, and creative journey. It’s designed with a clean and minimal UI. 
